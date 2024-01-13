@@ -1,4 +1,4 @@
-# Password Cracker
+# Crix Password Cracker
 This is a password cracker for when I forget my passwords to my Test databases. Currently, it just has the code for cracking hashes used by the default Django database, but it can be easily extended. 
 
 ### Disclaimer
